@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikhail Wahib</h1>
 <h3 align="center">A Software Developer.</h3>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 👨‍💻 All of my projects are available at [mikhailwahib.vercel.app](mikhailwahib.vercel.app)
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Nextjs, Nodejs, Expressjs.**
