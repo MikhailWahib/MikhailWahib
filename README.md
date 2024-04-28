@@ -4,5 +4,3 @@
 - 👨‍💻 All of my projects are available at [mikhailwahib.vercel.app](mikhailwahib.vercel.app)
 
 - 📫 How to reach me **mikhailwahib20@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
